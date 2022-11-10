@@ -1,15 +1,13 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Φαίδρα Δαμιανού
+### University Registration Number: dpsd19028
 
 # Introduction
-
-test
+Η εργασία μας είναι η δημιουργία ενός top-down 2d RPG. Διάλεξα ο χαρακτήρας μου να είναι ένα Λάμα το οποίο το σκάει από το πάρκο και φτήνει περαστικούς.
 
 # Summary
+Χρησι
 
 
 # 1st Deliverable
