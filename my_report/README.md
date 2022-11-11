@@ -11,10 +11,10 @@
 
 
 # 1st Deliverable
-<li>Οι στόχοι του πρώτου παραδοτέου ήταν οι εξής.</li>
-<li>1. Αντικατάσταση της Ruby με τον δικο μας πρωταγωνιστή.</li>
-<li>Δημιουργώντας τον χαρκτήρα μου μέσω του Krita (διαστάσεις 32x32 px) και ακολουθώντας τα βήματα του [tutorial](https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) έβαλα στη θέση της Ρούμπι το Λάαμα μου. ![ScreenShot](1.png)
-  <li>![Screenshot](2.png)</li>
+<ul>Οι στόχοι του πρώτου παραδοτέου ήταν οι εξής.</ul>
+<li>1. Αντικατάσταση της Ruby με τον δικο μας πρωταγωνιστή.</ul>
+<ul>Δημιουργώντας τον χαρκτήρα μου μέσω του Krita (διαστάσεις 32x32 px) και ακολουθώντας τα βήματα του [tutorial](https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) έβαλα στη θέση της Ρούμπι το Λάαμα μου. <img src="1.png">
+  <ul><img src="2.png"></ul>
 
 
 # 2nd Deliverable
