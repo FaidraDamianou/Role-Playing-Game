@@ -37,8 +37,11 @@
 
 
 # 2nd Deliverable
-
-
+<ul>Οι στόχοι του δεύτερου παραδοτέου ήταν οι εξής.</ul>
+<li>1.World Interactions - Blocking Movement.</ul>
+<ul>Όπως ανέφερα για τον στόχο 4 στο πρώτο παραδοτέο 1 έβαλα τα colliders</ul>
+<li>6. Camera - Cinemachine. </li>
+<ul>Mε την βοήθεια αυτου του <a href="https://www.youtube.com/watch?v=2jTY11Am0Ig&t=51s">βίντεο</a> πρόσθεσα την κάμερα για να ακολουθεί τον παίκτη.</ul>
 # 3rd Deliverable 
 
 
