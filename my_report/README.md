@@ -22,8 +22,17 @@
 <ul>Απλά ακολούθησα το tutorial</ul>
 <ul></ul>
 <li>3.World Design - Tilemaps.</li>
-<ul>Κυρίως με την βοήθεια αυτου του<a href="https://www.youtube.com/watch?v=DTp5zi8_u1U">βίντεο</a> μπόρεσα να βάλω το tilemap και χρησιμοποίησα <a href="https://fikry13.itch.io/another-rpg-tileset">αυτό το tileset</a> του <a href="https://twitter.com/fikry13_">fikry13</a>.</ul>
+<ul>Κυρίως με την βοήθεια αυτου του <a href="https://www.youtube.com/watch?v=DTp5zi8_u1U">βίντεο</a> μπόρεσα να βάλω το tilemap και χρησιμοποίησα <a href="https://fikry13.itch.io/another-rpg-tileset">αυτό το tileset</a> του <a href="https://twitter.com/fikry13_">fikry13</a>.</ul>
 <ul><img src="3.png" width="300" height="600"></ul>
+<ul></ul>
+<li>4.Decorating the World.</li>
+<ul>Έπειτα διακόσμησα σε ένα βαθμό τον χάρτη μου και θα τον βελτιώνω με κάθε παραδοτέο.</ul>
+<ul><img src="4.png" width="600" height="300"></ul>
+<ul>Μετά από δική μου πρωτοβουλία με την βοήθεια αυτού του <a href="https://www.youtube.com/watch?v=2obtqmBHUW4&t=273s">βίντεο</a> σε συνδιασμό με το δεδομένο tutorial έβαλα colliders.</ul>
+<ul><img src="5.png" width="600" height="300"></ul>
+<ul></ul>
+<li>5. Build, Run, Distribute.</li>
+<ul>Τέλος έκανα build και ανέβασα τα αρχεία μέσω του github desktop</ul>
 
 
 
