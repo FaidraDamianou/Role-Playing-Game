@@ -43,7 +43,7 @@
 
 <li>2.World Interactions - Collectibles.</li>
 <ul>Ακολουθώντας το δεδομένο <a href="https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c">tutorial</a> σχεδίασα το sprite του collectable μου και απλά το πρόσθεσα. Δεν αντιμετώπισα κάποιο θέμα</ul>
-<ul><img src="cherry.png" width="600" height="300"></ul>
+<ul><img src="cherry.png" width="400" height="300"></ul>
 
 <li>3. World Interactions - Damage Zones and Enemies.</ul>
 <ul>Σχεδίασα και πρόσθεσα το κοριτσάκι- ερχθρό με βάση το  <a href="https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c">tutorial</a> και δεν είχα θέμα ούτε με αυτό</ul>
@@ -52,8 +52,11 @@
 <ul>Εκεί ήταν που άρχισαν τα θέματα μου. Η δημιουργία των animations από μόνο του δεν ήταν δύσκολο, σχεδίασα τα sprites και εκανα τα animations.</ul>
 <ul>Η σύνδεση των animations όμως ήταν πιο περίπλοκο από οτι φαινόταν και το δεδομένο tutorial δεν βοηθούσε καθόλου. Με την βοήθεια ενός <a href="https://www.youtube.com/watch?v=hkaysu1Z-N8&t=133s">βίντεο</a> κατάφερα να κάνω το idle animation αλλά τα υπόλοιπα animations δεν μπορύσα να τα συνδέσω.</ul>
 <ul>Με την βοήθεια της φίλης μου της Μαριγιάννας μπόρεσα να συνδέσω τα animations και τωρα ο παικτης εχει idle, run & run animations!</ul>
-<ul><videocontrols>
-  <source src="Animationss.mp4"></video></ul>
+<ul><video width="320" height="240" controls>
+  <source src="Animationss.mp4" type="video/mp4">
+  <source src="Animationss.ogg" type="video/ogg">
+
+</video></ul>
 
 <li>6. Camera - Cinemachine. </li>
 <ul>Mε την βοήθεια αυτου του <a href="https://www.youtube.com/watch?v=2jTY11Am0Ig&t=51s">βίντεο</a> πρόσθεσα την κάμερα για να ακολουθεί τον παίκτη.</ul>
