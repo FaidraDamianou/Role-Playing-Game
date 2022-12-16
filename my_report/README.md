@@ -46,7 +46,7 @@
 <ul><img src="cherry.png" width="400" height="300"></ul>
 
 <li>3. World Interactions - Damage Zones and Enemies.</ul>
-<ul>Σχεδίασα και πρόσθεσα το κοριτσάκι- ερχθρό με βάση το  <a href="https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c">tutorial</a> και δεν είχα θέμα ούτε με αυτό</ul>
+<ul>Σχεδίασα και πρόσθεσα το κοριτσάκι- ερχθρό με βάση το  <a href="https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c">tutorial</a> και δεν είχα θέμα ούτε με αυτό. Το μόνο θέμα μου ήταν πως έπρεπε να αλλάξω το speed και να το κανω 1 στο inspector.</ul>
 
 <li>4.Sprite Animation</li>
 <ul>Εκεί ήταν που άρχισαν τα θέματα μου. Η δημιουργία των animations από μόνο του δεν ήταν δύσκολο, σχεδίασα τα sprites και εκανα τα animations.</ul>
