@@ -48,15 +48,19 @@
 <li>3. World Interactions - Damage Zones and Enemies.</ul>
 <ul>Σχεδίασα και πρόσθεσα το κοριτσάκι- ερχθρό με βάση το  <a href="https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c">tutorial</a> και δεν είχα θέμα ούτε με αυτό</ul>
 
-<li>4.Sprite Animation</ul>
+<li>4.Sprite Animation</li>
 <ul>Εκεί ήταν που άρχισαν τα θέματα μου. Η δημιουργία των animations από μόνο του δεν ήταν δύσκολο, σχεδίασα τα sprites και εκανα τα animations.</ul>
 <ul>Η σύνδεση των animations όμως ήταν πιο περίπλοκο από οτι φαινόταν και το δεδομένο tutorial δεν βοηθούσε καθόλου. Με την βοήθεια ενός <a href="https://www.youtube.com/watch?v=hkaysu1Z-N8&t=133s">βίντεο</a> κατάφερα να κάνω το idle animation αλλά τα υπόλοιπα animations δεν μπορύσα να τα συνδέσω.</ul>
-<ul>Με την βοήθεια της φίλης μου της Μαριγιάννας μπόρεσα να συνδέσω τα animations και τωρα ο παικτης εχει idle, run & run animations!</ul>
-<ul><video width="320" height="240" controls>
-  <source src="Animationss.mp4" type="video/mp4">
-  <source src="Animationss.ogg" type="video/ogg">
+<ul>Με την βοήθεια της φίλης μου της Μαριγιάννας μπόρεσα να συνδέσω τα animations και τωρα ο παικτης εχει idle, run & run <a href="https://www.youtube.com/watch?v=HBsu2_Mnqqk">animations!</a></ul>
+<ul>Κάνετε κλικ στο animations για να δειτε ενα βιντεο που τα δείχνει</ul>
+<ul><img src="animationmaps.png"></ul>
 
-</video></ul>
+<li>5.World Interactions - Projectile .</li>
+<ul>Δημιούργησα το sprite και το prefab για το projectile αλλά στο script του χαρακτ;hρα δεν εμφανιζόταν τα slot για να κανω drop το projectile, παρόλο που έχω πάρει τον ίδιο κώδικα που δείχνει το δεδομένο tutorial. Χρειάστηκε να φτιάξω νέα scripts για τον παικτη, τον εχθρο και το collectable αλλά ακόμα και έτσι υσνείζει να βγαίνει το ιδιο error και αν κανει pause το παιχνιδι οταν παταω το "C key"</ul>
+<ul><img src="null.png"></ul>
+
+
+
 
 <li>6. Camera - Cinemachine. </li>
 <ul>Mε την βοήθεια αυτου του <a href="https://www.youtube.com/watch?v=2jTY11Am0Ig&t=51s">βίντεο</a> πρόσθεσα την κάμερα για να ακολουθεί τον παίκτη.</ul>
