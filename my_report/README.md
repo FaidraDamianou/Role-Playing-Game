@@ -53,8 +53,8 @@
 <ul>Η σύνδεση των animations όμως ήταν πιο περίπλοκο από οτι φαινόταν και το δεδομένο tutorial δεν βοηθούσε καθόλου. Με την βοήθεια ενός <a href="https://www.youtube.com/watch?v=hkaysu1Z-N8&t=133s">βίντεο</a> κατάφερα να κάνω το idle animation αλλά τα υπόλοιπα animations δεν μπορύσα να τα συνδέσω.</ul>
 <ul>Με την βοήθεια της φίλης μου της Μαριγιάννας μπόρεσα να συνδέσω τα animations και τωρα ο παικτης εχει idle, run & run animations!</ul>
 <ul><video width="320" height="240" controls>
-  <source src="Animationss" type="Animationss/mp4">
-  <source src="Animationss.ogg" type="Animationss/ogg">
+  <source src="Animationss" type="video/mp4">
+  <source src="Animationss.ogv" type="video/ogg">
 
 </video></ul>
 
