@@ -56,8 +56,11 @@
 <ul><img src="animationmaps.png"></ul>
 
 <li>5.World Interactions - Projectile .</li>
-<ul>Δημιούργησα το sprite και το prefab για το projectile αλλά στο script του χαρακτ;hρα δεν εμφανιζόταν τα slot για να κανω drop το projectile, παρόλο που έχω πάρει τον ίδιο κώδικα που δείχνει το δεδομένο tutorial. Χρειάστηκε να φτιάξω νέα scripts για τον παικτη, τον εχθρο και το collectable αλλά ακόμα και έτσι υσνείζει να βγαίνει το ιδιο error και αν κανει pause το παιχνιδι οταν παταω το "C key"</ul>
+<ul>Δημιούργησα το sprite και το prefab για το projectile αλλά στο script του χαρακτ;hρα δεν εμφανιζόταν τα slot για να κανω drop το projectile, παρόλο που έχω πάρει τον ίδιο κώδικα που δείχνει το δεδομένο tutorial. Χρειάστηκε να φτιάξω νέα scripts για τον παικτη, τον εχθρο και το collectable αλλά ακόμα και έτσι συνεχιζει να βγαίνει το ιδιο error και να κανει pause το παιχνιδι οταν παταω το "C key"</ul>
 <ul><img src="null.png"></ul>
+<ul>Κατάλαβα το πρόβλημα μου, Είχα βάλει όλα τα components στο sprite που είχα ενσωματώσει στο prefab ενώ πρέπει το ίδιο το sprite να είναι component του prefab , συγκεκριμενα στο sprite renderer </ul>
+<ul><img src="Prefab.png"></ul>
+
 
 
 
