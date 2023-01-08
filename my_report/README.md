@@ -69,6 +69,7 @@
 <ul>Mε την βοήθεια αυτου του <a href="https://www.youtube.com/watch?v=2jTY11Am0Ig&t=51s">βίντεο</a> πρόσθεσα την κάμερα για να ακολουθεί τον παίκτη.</ul>
 # 3rd Deliverable 
 
+Score Collectable https://www.youtube.com/watch?v=cOW_T3i4_kk
 
 # Conclusions
 
