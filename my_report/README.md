@@ -70,6 +70,8 @@
 # 3rd Deliverable 
 
 Score Collectable https://www.youtube.com/watch?v=cOW_T3i4_kk
+Holes https://www.youtube.com/watch?v=evDKHClDxU8
+Menu https://www.youtube.com/watch?v=-GWjA6dixV4
 
 # Conclusions
 
